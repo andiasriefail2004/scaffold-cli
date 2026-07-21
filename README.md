@@ -30,7 +30,7 @@ A fast and interactive CLI tool to generate project structures automatically. St
 
 ```bash
 # Clone the repo
-git clone https://github.com/yourusername/scaffold-cli.git
+git clone https://github.com/andiasriefail2004/scaffold-cli.git
 cd scaffold-cli
 
 # Install dependencies
