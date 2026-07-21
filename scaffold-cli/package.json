@@ -1,0 +1,26 @@
+{
+  "name": "scaffold-cli",
+  "version": "1.0.0",
+  "description": "CLI tool to generate project structures automatically",
+  "main": "src/index.js",
+  "bin": {
+    "scaffold": "src/index.js"
+  },
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "dependencies": {
+    "adm-zip": "^0.5.10",
+    "axios": "^1.6.0",
+    "chalk": "^4.1.2",
+    "commander": "^11.1.0",
+    "fs-extra": "^11.2.0",
+    "inquirer": "^8.2.6",
+    "ora": "^5.4.1",
+    "simple-git": "^3.21.0",
+    "update-notifier": "^5.1.0"
+  },
+  "keywords": ["cli", "scaffold", "generator", "project"],
+  "author": "",
+  "license": "MIT"
+}
