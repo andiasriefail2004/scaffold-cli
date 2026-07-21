@@ -28,7 +28,7 @@ A fast and interactive CLI tool to generate project structures automatically. St
 
 ## Installation
 
-```bash
+
 # Clone the repo
 git clone https://github.com/andiasriefail2004/scaffold-cli.git
 cd scaffold-cli
@@ -46,9 +46,8 @@ npm install -g .
 
 ### Create a new project (interactive)
 
-```bash
 scaffold create
-```
+
 
 You will be prompted to enter:
 - Project name
